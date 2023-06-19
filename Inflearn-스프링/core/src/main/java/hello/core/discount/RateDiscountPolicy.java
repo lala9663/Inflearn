@@ -1,2 +1,3 @@
-package hello.core.discount;public class RateDiscountPoilicy {
+package hello.core.discount;
+public class RateDiscountPolicy {
 }
