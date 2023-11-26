@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Vue.js 시작하기
 
 [Vue.js 시작하기 인프런 강의](https://inf.run/RxKK)와 [Vue 3 시작하기 인프런 강의](https://inf.run/kRHp) 리포지토리입니다.
@@ -9,3 +10,7 @@
 **Copyright © 2021-2023 Captain Pangyo**
 
 <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-nd/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/">Creative Commons Attribution-NonCommercial-NoDerivs 4.0 Unported License</a>.
+=======
+# Inflearn
+인프런 강의 
+>>>>>>> ae819fc65895247728a3d8f123f420ea05fdaf7c
