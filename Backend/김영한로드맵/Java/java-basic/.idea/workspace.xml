@@ -5,24 +5,27 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="78c33a36-2d4a-4ddb-aa6a-0ddd46c2a1d6" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/jpa-buddy.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java-basic.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/class1/ClassStart1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/class1/ClassStart2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/class1/ClassStart3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/class1/Student.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ref/BigData.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ref/Data.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ref/InitData.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ref/InitMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ref/Method1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ref/Method2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ref/MethodChange1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ref/MethodChange2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ref/NullMain1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ref/NullMain2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ref/NullMain3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ref/NullMain4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ref/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ref/VarChange1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ref/VarChange2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ref/ex/ProductOrder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ref/ex/ProductOrderMain2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ref/ex/ProductOrderMain3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/aws.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/aws.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build.gradle.kts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/gradlew" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/gradlew.bat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/settings.gradle.kts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,6 +54,11 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "ASKED_MARK_IGNORED_FILES_AS_EXCLUDED": "true",
+    "Notification.DisplayName-DoNotAsk-AWS Toolkit": "AWS Toolkit",
+    "Notification.DisplayName-DoNotAsk-nnthink.aiXcoder.notifications": "nnthink.aiXcoder.notifications",
+    "Notification.DoNotAsk-AWS Toolkit": "true",
+    "Notification.DoNotAsk-nnthink.aiXcoder.notifications": "true",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
@@ -58,17 +66,25 @@
     "WebServerToolWindowFactoryState": "false",
     "git-widget-placeholder": "main",
     "ignore.virus.scanning.warn.message": "true",
-    "last_opened_file_path": "C:/Study/Inflearn/Backend/김영한로드맵/Java/java-basic/src/class1/ex",
+    "last_opened_file_path": "C:/lala9663/inflearn/Backend/김영한로드맵/Java/java-basic/src",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "settings.editor.selected.configurable": "settings.sync",
     "vue.rearranger.settings.migration": "true"
+  },
+  "keyToStringList": {
+    "GitStage.ChangesTree.GroupingKeys": [
+      "directory",
+      "module",
+      "repository"
+    ]
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\lala9663\inflearn\Backend\김영한로드맵\Java\java-basic\src" />
       <recent name="C:\Study\Inflearn\Backend\김영한로드맵\Java\java-basic\src\class1\ex" />
       <recent name="C:\Study\Inflearn\Backend\김영한로드맵\Java\java-basic\src\class1" />
     </key>
@@ -86,6 +102,10 @@
       <updated>1717847972603</updated>
       <workItem from="1717847973590" duration="2017000" />
       <workItem from="1717919640367" duration="2671000" />
+      <workItem from="1718028921950" duration="910000" />
+      <workItem from="1718520072572" duration="159000" />
+      <workItem from="1718520251725" duration="1418000" />
+      <workItem from="1718522146102" duration="1297000" />
     </task>
     <servers />
   </component>
