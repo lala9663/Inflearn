@@ -1,0 +1,7 @@
+
+Y
+java:S1226">Introduce a new variable instead of reusing the parameter "x".(è“öËûÿÿÿÿ
+E	java:S106"+Replace this use of System.out by a logger.(ùø²âûÿÿÿÿ
+@	java:S106	"+Replace this use of System.out by a logger.(¤ı°¸
+P
+java:S1854"5Remove this useless assignment to local variable "x".(è“öËûÿÿÿÿ

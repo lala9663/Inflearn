@@ -1,0 +1,16 @@
+
+e
+java:S1192"ODefine a constant instead of duplicating this literal "dataB.value = " 3 times.(¿î¾²
+j
+java:S1192"ODefine a constant instead of duplicating this literal "dataA.value = " 3 times.(¿º»úúÿÿÿÿ
+E	java:S106
+"+Replace this use of System.out by a logger.(Á£Äøÿÿÿÿ
+@	java:S106"+Replace this use of System.out by a logger.(ŸãŒş
+E	java:S106"+Replace this use of System.out by a logger.(¿º»úúÿÿÿÿ
+@	java:S106"+Replace this use of System.out by a logger.(¿î¾²
+@	java:S106"+Replace this use of System.out by a logger.(€åÍà
+E	java:S106"+Replace this use of System.out by a logger.(¿º»úúÿÿÿÿ
+@	java:S106"+Replace this use of System.out by a logger.(¿î¾²
+@	java:S106"+Replace this use of System.out by a logger.(‹ÚùÏ
+E	java:S106"+Replace this use of System.out by a logger.(¿º»úúÿÿÿÿ
+@	java:S106"+Replace this use of System.out by a logger.(¿î¾²
