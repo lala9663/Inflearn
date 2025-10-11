@@ -33,6 +33,13 @@ export default class App extends Component{
     }
     ]
 
+  handleClick = (id) => {
+    console.log(id)
+    let newTodoData = this.todoData.filter(data => data.id !== id)
+    console.log(newTodoData);
+  }
+
+
   render() {
     return (
       <div className='container'>
@@ -46,7 +53,7 @@ export default class App extends Component{
               <div key={data.id} style={this.getStyle()}>
                 <input type='checkbox' defaultChecked={false} />
                 {data.title }
-                <button style={this.btnStyle}>X</button>
+                <button style={this.btnStyle} onClick={() => this.handleClick(data.id)}>X</button>
               </div>
             ))
           }
